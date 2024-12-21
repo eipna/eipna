@@ -11,15 +11,13 @@ I'm a passionate developer constantly learning and growing my skills in various 
 - 🌱 I’m currently learning advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on innovative projects.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
-- ⚡ Fun fact: I love hiking and exploring nature!
+- 📫 How to reach me: [serbissco@gmail.com](mailto:serbissco@gmail.com)
+- ⚡ Fun fact: I love coding and exploring trending technologies!
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js, Express
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Docker, Git, GitHub Actions, AWS
+- **Languages:** Python, Java, C#
+- **Databases:** Microsoft SQL Server, SQLite
 
 ## 📈 GitHub Stats
 
@@ -27,29 +25,12 @@ I'm a passionate developer constantly learning and growing my skills in various 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [Facebook](https://www.facebook.com/vrix.cunamay.eliponga)
 
 ## 🌟 Featured Projects
 
-- [Project 1](https://github.com/eipna/project1): Brief description of project 1.
-- [Project 2](https://github.com/eipna/project2): Brief description of project 2.
-- [Project 3](https://github.com/eipna/project3): Brief description of project 3.
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Python](https://yourblog.com/how-to-get-started-with-python)
-- [Understanding JavaScript Closures](https://yourblog.com/understanding-javascript-closures)
-- [A Guide to Responsive Web Design](https://yourblog.com/a-guide-to-responsive-web-design)
-<!-- BLOG-POST-LIST:END -->
-
-## 📚 Latest Articles
-
-- [Article 1](https://yourblog.com/article1)
-- [Article 2](https://yourblog.com/article2)
-- [Article 3](https://yourblog.com/article3)
+- [Notable](https://github.com/eipna/Notable): A no-BS offline Android note-taking application 
+- [Sortify](https://github.com/eipna/Sortify): A company worker management software made via Windows forms.
 
 Feel free to explore my repositories and reach out if you want to collaborate on any exciting projects!
 
