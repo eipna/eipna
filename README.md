@@ -8,7 +8,7 @@ I'm a passionate developer constantly learning and growing my skills in various 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on open-source projects and contributing to the community.
-- 🌱 I’m currently learning advanced web development and cloud computing.
+- 🌱 I’m currently learning programming fundamentals.
 - 👯 I’m looking to collaborate on innovative projects.
 - 📫 How to reach me: [vrixzandro.jm8b9@slmail.me](mailto:vrixzandro.jm8b9@slmail.me)
 - ⚡ Fun fact: I love coding and exploring trending technologies!
@@ -24,8 +24,8 @@ I'm a passionate developer constantly learning and growing my skills in various 
 
 ## 🌟 Featured Projects
 
-- [Notable](https://github.com/eipna/Notable): A no-BS offline Android note-taking application 
-- [Sortify](https://github.com/eipna/Sortify): A company worker management software made via Windows forms.
+- [Notable](https://github.com/eipna/Notable)
+- [Sortify](https://github.com/eipna/Sortify)
 
 Feel free to explore my repositories and reach out if you want to collaborate on any exciting projects!
 
