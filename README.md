@@ -1,4 +1,4 @@
-# Hi there, I'm eipna 👋
+# Hi there, I'm Serbi 👋
 
 I'm a passionate developer constantly learning and growing my skills in various technologies. Here's a little more about me:
 
@@ -24,7 +24,6 @@ I'm a passionate developer constantly learning and growing my skills in various 
 
 ## 🌟 Featured Projects
 
-- [Notable](https://github.com/eipna/Notable)
 - [Sortify](https://github.com/eipna/Sortify)
 
 Feel free to explore my repositories and reach out if you want to collaborate on any exciting projects!
