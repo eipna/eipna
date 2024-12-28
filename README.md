@@ -18,10 +18,6 @@ I'm a passionate developer constantly learning and growing my skills in various 
 - **Languages:** Python, Java, C#
 - **Databases:** Microsoft SQL Server, SQLite
 
-## 📈 GitHub Stats
-
-![eipna's GitHub stats](https://github-readme-stats.vercel.app/api?username=eipna&show_icons=true&theme=radical)
-
 ## 🌟 Featured Projects
 
 - [MindBin](https://github.com/eipna/MindBin)
