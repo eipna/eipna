@@ -24,6 +24,7 @@ I'm a passionate developer constantly learning and growing my skills in various 
 
 ## 🌟 Featured Projects
 
+- [MindBin](https://github.com/eipna/MindBin)
 - [Sortify](https://github.com/eipna/Sortify)
 
 Feel free to explore my repositories and reach out if you want to collaborate on any exciting projects!
