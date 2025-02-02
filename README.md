@@ -5,6 +5,6 @@ I love **open source development** and I build things on my GitHub profile (here
 I love **Android** developent and **C#**.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/eipna)
-- 🐦  [Where to reach me? (**Email**)](mailto:vrixzandro.jm8b9@slmail.me)
+- ✉️  [Where to reach me? (**Email**)](mailto:vrixzandro.jm8b9@slmail.me)
 
 Do not forget to view my open source projects below 👇🏻
