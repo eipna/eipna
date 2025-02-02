@@ -1,4 +1,4 @@
-Hello, this is **Vrixzandro Eliponga**
+### Hello, this is **`Vrixzandro Eliponga`**
 
 I'm a passionate **software developer** living in **Batangas, Philippines**, studying as a second-year Information Technology student at **STI College Balayan**.
 I love **open source development** and I build things on my GitHub profile (here).
